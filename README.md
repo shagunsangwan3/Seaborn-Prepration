@@ -34,9 +34,3 @@ git clone https://github.com/shagunsangwan3/Seaborn-Prepration.git
 
 
 ---
-
-### Command to commit and push
-```powershell
-git add README.md
-git commit -m "Updated README with project description"
-git push
