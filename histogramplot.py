@@ -6,5 +6,5 @@ df = sns.load_dataset("penguins")
 print(df)
 
 # 1
-sns.histplot(["bill_length_mm"])
-plt.show
+sns.displot(df["bill_length_mm"])
+plt.show()
